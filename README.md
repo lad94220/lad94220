@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lad94220&label=Profile%20views&color=0e75b6&style=flat" alt="lad94220" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lad94220" alt="lad94220" /></a> </p>
-
 - 📫 How to reach me **duyleanh265@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -17,5 +15,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lad94220&show_icons=true&locale=en&layout=compact" alt="lad94220" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lad94220&show_icons=true&locale=en" alt="lad94220" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lad94220&" alt="lad94220" /></p>
